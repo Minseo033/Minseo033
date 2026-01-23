@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi there, I’m Minseo
 
-<!--
-**Minseo033/Minseo033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⸻
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
+	•	🎓 Computer Science Student
+	•	📍 Based in Seoul, Korea
+	•	🌱 Currently learning Android / Kotlin / Data Structures
+	•	🛠 Hands-on projects & school assignments 중심
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🛠 Tech Stack
+
+Languages & Platforms
+
+Tools
+
+
+⸻
+
+📊 GitHub Stats
+
+
+⸻
+
+🚀 Featured Project
+
+⏰ WakeUp (Team Project)
+알람 기반 기상 보조 안드로이드 애플리케이션
+
+	•	👥 Team Project (Android App)
+	•	📱 Android / Kotlin 기반
+	•	⏰ 알람, 기상 유도 기능 중심 앱
+	•	🤝 팀플로 기획부터 구현까지 진행
+
+🔗 Repository: https://github.com/Minseo033/WakeUp
+
+⸻
+
+✨ Motto
+
+
+⸻
+
+📫 Contact
+	•	GitHub: @Minseo033￼
