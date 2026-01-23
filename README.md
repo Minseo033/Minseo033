@@ -24,6 +24,11 @@ Tools
 
 ⸻
 
+🏆 Awards
+	•	🏅 2025DMU 스마트앱프로젝트 경진대회 장려상 - WakeUp
+
+⸻
+
 🚀 Featured Project
 
 ⏰ WakeUp (Team Project)
@@ -40,6 +45,7 @@ Tools
 
 ✨ Motto
 
+“꾸준히 만들고, 직접 부딪히면서 성장하기”
 
 ⸻
 
