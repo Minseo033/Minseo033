@@ -1,19 +1,5 @@
 # 🙋‍♂️ 안녕하세요! 김민서입니다.
 
-
-## 🛠️ Tech Stack
-
-### Frontend
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-
-### Backend
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
-
-### Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
-
-<br>
-
 ## 🚀 Featured Projects
 
 ### [WakeUp First](https://github.com/Minseo033/WakeUp-)
