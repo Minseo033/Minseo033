@@ -1,53 +1,30 @@
-👋 Hi there, I’m Minseo
-
-⸻
-
-🧑‍💻 About Me
-	•	🎓 Computer Science Student
-	•	📍 Based in Seoul, Korea
-	•	🌱 Currently learning Android / Kotlin / Data Structures
-	•	🛠 Hands-on projects & school assignments 중심
-
-⸻
-
-🛠 Tech Stack
-
-Languages & Platforms
-
-Tools
+# 🙋‍♂️ 안녕하세요! 김민서입니다.
 
 
-⸻
+## 🛠️ Tech Stack
 
-📊 GitHub Stats
+### Frontend
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
+### Backend
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
 
-⸻
+### Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
 
-🏆 Awards
-	•	🏅 2025DMU 스마트앱프로젝트 경진대회 장려상 - WakeUp
+<br>
 
-⸻
+## 🚀 Featured Projects
 
-🚀 Featured Project
+### [WakeUp First](https://github.com/Minseo033/WakeUp-)
+* **프로젝트 소개:** 모바일 알람 애플리케이션 기획 및 개발 팀 프로젝트
+* **Repository:** https://github.com/Minseo033/WakeUp-
 
-⏰ WakeUp (Team Project)
-알람 기반 기상 보조 안드로이드 애플리케이션
+### [TL_Renewal (AI 웹사이트 리뉴얼 공모전)](https://github.com/Minseo033/TL_Renewal)
+* **프로젝트 소개:** AI 도구를 활용한 웹사이트 리뉴얼 공모전 출품작
+* **Repository:** https://github.com/Minseo033/TL_Renewal
 
-	•	👥 Team Project (Android App)
-	•	📱 Android / Kotlin 기반
-	•	⏰ 알람, 기상 유도 기능 중심 앱
-	•	🤝 팀플로 기획부터 구현까지 진행
+<br>
 
-🔗 Repository: https://github.com/Minseo033/WakeUp
-
-⸻
-
-✨ Motto
-
-“꾸준히 만들고, 직접 부딪히면서 성장하기”
-
-⸻
-
-📫 Contact
-	•	GitHub: @Minseo033￼
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minseo033&show_icons=true&theme=radical)](https://github.com/Minseo033)
